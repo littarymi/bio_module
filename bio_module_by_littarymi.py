@@ -7,11 +7,11 @@ __version__ = (3, 1, 0)
 #           ███████╗███████╗░░░██║░░░██║╚█████╔╝██████╔╝╚█████╔╝███████╗
 #           ╚══════╝╚══════╝░░░╚═╝░░░╚═╝░╚════╝░╚═════╝░░╚════╝░╚══════
 #                              НЕ © Copyright 2022
-#                             https://t.me/zeticsce              
+#                             https://t.me/littarymi              
 
 
-# developer of Num: @trololo_1
-# meta developer: @zeticsce
+# developer of Num: @littarymi
+# meta developer: @littarymi
 from .. import loader, utils  # noqa
 import asyncio
 import contextlib
